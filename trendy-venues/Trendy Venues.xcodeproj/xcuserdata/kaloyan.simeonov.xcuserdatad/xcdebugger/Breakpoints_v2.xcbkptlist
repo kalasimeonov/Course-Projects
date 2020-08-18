@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE254F60-3335-4793-BA5E-2D275422BBC9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1D7F4AF-7E77-4BE5-B5DE-058034189A94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/Service Providers/VenueProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "parseDailyJSON(venuesData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B95B38E-BD30-4047-B878-1687C5C212A5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/VenueFetchModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EDF9411-CC42-46D1-9DC6-E269131410AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/Service Providers/VenueProvider+Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "parseJSON(venuesData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9F46DA9-CA46-4108-8534-4C4195968969"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/Service Providers/VenueProvider+Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "parseJSON(venuesData:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9F46DA9-CA46-4108-8534-4C4195968969 - cead2f2222efc898"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Trendy_Venues.VenueProvider.(parseJSON in _B2177AF28DC89251C7EDB16F140FD3A1)(venuesData: Foundation.Data) -&gt; Trendy_Venues.Result&lt;Swift.Array&lt;Trendy_Venues.VenueModel&gt;, Trendy_Venues.GetVenuesError&gt;"
+                  moduleName = "Trendy Venues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaloyan.simeonov/Desktop/Development/Trendy%20Venues/Trendy%20Venues/Service%20Providers/VenueProvider+Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "503">
+               </Location>
+               <Location
+                  uuid = "A9F46DA9-CA46-4108-8534-4C4195968969 - 7794c86c59dd563b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Trendy_Venues.VenueModel.Items) -&gt; () in Trendy_Venues.VenueProvider.(parseJSON in _B2177AF28DC89251C7EDB16F140FD3A1)(venuesData: Foundation.Data) -&gt; Trendy_Venues.Result&lt;Swift.Array&lt;Trendy_Venues.VenueModel&gt;, Trendy_Venues.GetVenuesError&gt;"
+                  moduleName = "Trendy Venues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kaloyan.simeonov/Desktop/Development/Trendy%20Venues/Trendy%20Venues/Service%20Providers/VenueProvider+Constants.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8AA11F5-879C-4485-9EA2-D215C65678A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/Service Providers/VenueProvider+Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "parseJSON(venuesData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8196F47-77AE-4A85-A6CE-82F2C2C6873B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Trendy Venues/Service Providers/VenueProvider+Constants.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "parseJSON(venuesData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
